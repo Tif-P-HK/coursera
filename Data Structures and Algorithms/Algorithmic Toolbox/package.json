@@ -1,0 +1,16 @@
+{
+  "name": "algorithmic-toolbox",
+  "version": "1.0.0",
+  "description": "algorithmic-toolbox course work",
+  "main": "server.js",
+  "dependencies": {
+    "big-integer": "^1.6.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
